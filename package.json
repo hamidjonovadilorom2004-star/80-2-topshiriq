@@ -1,0 +1,20 @@
+{
+  "name": "blockchain-studio-dashboard",
+  "version": "1.0.0",
+  "description": "Blockchain Studio Dashboard - Web3.js, MetaMask va localhost smart contract boshqaruvi",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5174",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "web3": "^4.16.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.1"
+  }
+}
